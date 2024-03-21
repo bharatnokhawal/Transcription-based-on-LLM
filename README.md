@@ -24,4 +24,3 @@ Run the data collection script to gather Marathi speech data from YouTube.
 Use Azure Speech to Text for transcription and Azure Virtual Machine for data processing as per project requirements.
 Apply the LLM GPT-2 model on the transcribed data for analysis and processing.
 Contributors
-BHARAT KUMAWAT 
